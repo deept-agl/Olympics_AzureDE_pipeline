@@ -1,0 +1,23 @@
+[
+    {
+        "p_relativeurl":"deept-agl/Olympics_AzureDE_pipeline/refs/heads/master/Datasets/Coaches.csv",
+        "p_file_name":"Coaches.csv"
+    },
+     {
+        "p_relativeurl":"deept-agl/Olympics_AzureDE_pipeline/refs/heads/master/Datasets/Athletes.csv",
+        "p_file_name":"Athletes.csv"
+    },
+     {
+        "p_relativeurl":"deept-agl/Olympics_AzureDE_pipeline/refs/heads/master/Datasets/EntriesGender.csv",
+        "p_file_name":"EntriesGender.csv"
+    },
+    {
+        "p_relativeurl":"deept-agl/Olympics_AzureDE_pipeline/refs/heads/master/Datasets/Medals.csv",
+        "p_file_name":"Medals.csv"
+    },
+    {
+        "p_relativeurl":"deept-agl/Olympics_AzureDE_pipeline/refs/heads/master/Datasets/Teams.csv",
+        "p_file_name":"Teams.csv"
+    }
+
+]
